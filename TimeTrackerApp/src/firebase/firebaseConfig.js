@@ -4,16 +4,13 @@ import { initializeApp } from "firebase/app";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-// IMPORTANT: Replace the placeholder values with your actual Firebase project keys.
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID",
-  measurementId: "YOUR_MEASUREMENT_ID"
+  apiKey: "AIzaSyBnKDQosk_kdW7z0NiUyCdM9lHdFnDPo0c",
+  authDomain: "bonanzatime-cc4a7.firebaseapp.com",
+  projectId: "bonanzatime-cc4a7",
+  storageBucket: "bonanzatime-cc4a7.firebasestorage.app",
+  messagingSenderId: "49620537683",
+  appId: "1:49620537683:web:617e4c6c5b97ea859c11a6"
 };
 
 // Initialize Firebase
